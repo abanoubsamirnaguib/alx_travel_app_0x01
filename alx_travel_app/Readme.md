@@ -7,7 +7,7 @@ This project contains a Django app for travel listings with models for Listing, 
 The inner Django project folder `alx_travel_app` has been duplicated to `alx_travel_app_0x00` as requested.
 
 ## Models
-
+ 
 Defined in `alx_travel_app/listings/models.py`:
 
 - Listing: title, description, location, price_per_night, max_guests, is_available, image_url, host, timestamps
